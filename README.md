@@ -1,2 +1,2 @@
 # LeetCode_Algorithm_Exercise
-Algorithm Exercises On LeetCode using Java
+Algorithm Exercises On LeetCode using Java Language
