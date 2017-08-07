@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe18064-3f37-44b9-be96-1539fdc45d43" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/FindMaxConsecutiveOnes.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindDisappearedNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindDisappearedNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Easy/FindDisappearedNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="360">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#362#371#0" expanded="true" />
@@ -28,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindMaxConsecutiveOnes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Easy/FindMaxConsecutiveOnes.java">
+      <file leaf-file-name="MoveZeroes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Easy/MoveZeroes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="456">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,6 +69,8 @@
         <option value="$PROJECT_DIR$/src/Easy/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/Easy/FindMaxConsecutiveOnes.java" />
         <option value="$PROJECT_DIR$/src/Easy/FindDisappearedNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Easy/moveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/Easy/MoveZeroes.java" />
       </list>
     </option>
   </component>
@@ -287,12 +288,12 @@
       <workItem from="1501415265076" duration="7280000" />
       <workItem from="1501679253623" duration="1361000" />
       <workItem from="1501771968154" duration="2849000" />
-      <workItem from="1502107645996" duration="9677000" />
+      <workItem from="1502107645996" duration="10948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21167000" />
+    <option name="totallyTimeSpent" value="22438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1091" y="69" width="1612" height="1006" extended-state="0" />
@@ -307,8 +308,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34407365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27963176" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34407365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27963176" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23260309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -471,22 +472,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Easy/FindDisappearedNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Easy/FindMaxConsecutiveOnes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
+        <state relative-caret-position="24">
           <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/FindDisappearedNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/Easy/MoveZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#362#371#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="456">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
