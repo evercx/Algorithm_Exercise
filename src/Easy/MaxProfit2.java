@@ -5,7 +5,7 @@ package Easy;
  *
  * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
  */
-public class MaxProfit {
+public class MaxProfit2 {
 
     public int maxProfit(int[] prices) {
 
