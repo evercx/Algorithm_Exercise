@@ -6,6 +6,7 @@ package Easy;
  * https://leetcode.com/problems/maximum-subarray/description/
  */
 public class MaxSubArray {
+
     public int maxSubArray(int[] nums) {
 
         int res = Integer.MIN_VALUE;
