@@ -2,6 +2,9 @@ package Easy;
 
 /**
  * Created by EVERCX on 2017/8/11.
+ *
+ *
+ *https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
  */
 public class FindUnsortedSubarray {
 
@@ -49,8 +52,6 @@ public class FindUnsortedSubarray {
 
         int res = fus.findUnsortedSubarray(new int[]{1,3,2,2,2});
         System.out.println(res);
-
-
 
     }
 }
