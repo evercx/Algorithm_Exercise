@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe18064-3f37-44b9-be96-1539fdc45d43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Easy/HashTable/FindRestaurant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Easy/HashTable/LongestPalindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Easy/HashTable/ValidAnagram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Easy/HashTable/LongestPalindrome.java" afterPath="$PROJECT_DIR$/src/Easy/HashTable/LongestPalindrome.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -41,11 +38,11 @@
       <file leaf-file-name="LongestPalindrome.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Easy/HashTable/LongestPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="110">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#426#445#0" expanded="true" />
+                <element signature="e#423#442#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -733,12 +730,12 @@
       <workItem from="1502759458144" duration="3310000" />
       <workItem from="1502764143031" duration="6949000" />
       <workItem from="1502856698962" duration="24000" />
-      <workItem from="1502931753632" duration="2755000" />
+      <workItem from="1502931753632" duration="2805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61695000" />
+    <option name="totallyTimeSpent" value="61745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -968,11 +965,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Easy/HashTable/LongestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="110">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#426#445#0" expanded="true" />
+            <element signature="e#423#442#0" expanded="true" />
           </folding>
         </state>
       </provider>
