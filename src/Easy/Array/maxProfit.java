@@ -5,7 +5,7 @@ package Easy;
  *
  * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
  */
-public class maxProfit {
+public class MaxProfit {
     public int maxProfit(int[] prices) {
         int minPrice = Integer.MAX_VALUE;
         int profit = 0;
