@@ -2,12 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe18064-3f37-44b9-be96-1539fdc45d43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Easy/HammingDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Easy/LinkedList/HasCycle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Easy/LinkedList/RemoveElements.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lc_train/CanWinNim.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lc_train/CombinationSum4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/LinkedList/MergeTwoLists.class" afterPath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/LinkedList/MergeTwoLists.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/Array/MergeSortedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/ArrayPairSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/CanPlaceFlowers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/ContainsDuplicate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/ContainsNearbyDuplicate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/FindDisappearedNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/FindMaxAverage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/FindMaxConsecutiveOnes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/FindPairs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/FindUnsortedSubarray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/HammingDistance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/HashTable/DistributeCandies.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/HashTable/FindRestaurant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/HashTable/FindTheDifference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/HashTable/FindWords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/HashTable/Intersection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/HashTable/IslandPerimeter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/HashTable/LongestPalindrome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/HashTable/SingleNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/HashTable/ValidAnagram.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/LinkedList/DeleteDuplicates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/LinkedList/DeleteNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/LinkedList/HasCycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/LinkedList/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/LinkedList/MergeTwoLists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/LinkedList/RemoveElements.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/LinkedList/ReverseList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/MajorityElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/MatrixReshape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/MaxProfit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/MaxProfit2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/MaxSubArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/MaximumProduct.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/MissingNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/MoveZeroes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/PascalsTriangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/PascalsTriangle2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/PlusOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/RemoveDuplicates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/RemoveElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/RotateArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/SearchInsert.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/ThirdMax.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/TwoSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Easy/TwoSum2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/lc_train/CanWinNim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode_Algorithm_Exercise/lc_train/CombinationSum4.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -726,16 +768,16 @@
       <workItem from="1520573377577" duration="577000" />
       <workItem from="1521612140574" duration="1069000" />
       <workItem from="1521696257156" duration="2239000" />
-      <workItem from="1522032292593" duration="3832000" />
+      <workItem from="1522032292593" duration="3999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86564000" />
+    <option name="totallyTimeSpent" value="86731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -745,8 +787,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2807229" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2807229" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2180723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
