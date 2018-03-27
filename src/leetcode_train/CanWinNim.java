@@ -1,4 +1,4 @@
-package lc_train;
+package leetcode_train;
 
 /**
  * Created by EVERCX on 2018/3/22.

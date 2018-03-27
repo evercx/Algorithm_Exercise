@@ -1,4 +1,4 @@
-package lc_train;
+package leetcode_train;
 
 import java.util.*;
 
