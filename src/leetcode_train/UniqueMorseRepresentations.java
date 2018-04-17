@@ -11,8 +11,6 @@ public class UniqueMorseRepresentations {
 
     public int uniqueMorseRepresentations(String[] words) {
 
-        int result = 0;
-
         String[] MorseCode = {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
         String alphabet = "abcdefghijklmnopqrstuvwxyz";
 
