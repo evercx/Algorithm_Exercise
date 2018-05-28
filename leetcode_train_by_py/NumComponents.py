@@ -22,10 +22,9 @@ class Solution:
 
         while p_h != None:
 
+            if self.find_item_in_list(G,p_h.val):
 
-            if p_h.val in G:
-
-                if p_h.next == None or p_h.next.val not in G:
+                if p_h.next == None or self.find_item_in_list(G,p_h.next.val) == False:
                     res += 1
 
             p_h = p_h.next
@@ -39,14 +38,17 @@ class Solution:
 
         G.sort()
 
-        for i in range(len(G)):
-            if G[i] == item:
-                return i
-            if G[i] > item:
-                break
+        left = 0
+        right = len(G)
 
-        return -1
-
+        while left < right:
+            mid = int((right + left) / 2)
+            if G[mid] == item: return True
+            elif G[mid] > item:
+                right = mid
+            else:
+                left = mid + 1
+        return False
 
 
 
