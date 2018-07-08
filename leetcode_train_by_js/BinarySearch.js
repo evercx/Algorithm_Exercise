@@ -32,10 +32,6 @@ function binarySearch(nums,key){
 // console.log("result:%d",result);
 
 
-
-
-
-
 // 69.求开方  https://leetcode.com/problems/sqrtx/description/
 
 var mySqrt = function(x) {

@@ -9,11 +9,11 @@ package Easy.LinkedList;
  */
 
 
-/*class ListNode {
+class ListNode {
     int val;
     ListNode next;
     ListNode(int x) { val = x; }
-}*/
+}
 
 
 public class ReverseList {
@@ -33,5 +33,16 @@ public class ReverseList {
         }
 
         return resList;
+    }
+
+    public static void main(String[] args) {
+
+        ListNode node = new ListNode(1);
+        node.next = new ListNode(2);
+        node.next.next = new ListNode(3);
+        node.next.next.next = new ListNode(4);
+        node.next.next.next.next = new ListNode(5);
+
+
     }
 }
